@@ -1,6 +1,6 @@
 async function loadOffers() {
   try {
-    const response = await fetch("/assets/data/offers.json");
+    const response = await fetch("assets/data/offers.json");
     const data = await response.json();
 
     const container = document.getElementById("offersContainer");
