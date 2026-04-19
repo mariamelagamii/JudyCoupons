@@ -3,18 +3,11 @@ let selectedMain = "all";
 let selectedSub = "all";
 
 async function loadOffers() {
-  const res = await fetch("assets/data/offers.json");
-  allOffers = await res.json();
-  displayOffers(allOffers);
-}
+  try {
+    const response = await fetch("/assets/data/offers.json");
+    const data = await response.json();
 
-function displayOffers(data) {
-  const container = document.getElementById("offersContainer");
-
-  if (data.length === 0) {
-    container.innerHTML = "<p>لا يوجد كوبونات</p>";
-    return;
-  }
+    const container = document.getElementById("offersContainer");
 
   container.innerHTML = data
     .map(

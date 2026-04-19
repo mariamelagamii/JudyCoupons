@@ -45,7 +45,6 @@ body::-webkit-scrollbar-thumb {
     z-index: 2000;
 }
 
-/* زر واتساب */
 .whatsapp-btn {
     background: #25D366;
     color: white;
@@ -56,19 +55,12 @@ body::-webkit-scrollbar-thumb {
     transition: 0.3s;
 }
 
-/* Hover يخليه واضح clickable */
 .whatsapp-btn:hover {
     background: #1ebe5d;
     transform: scale(1.05);
 }
 
-/* موبايل */
-@media (max-width: 600px) {
-    .top-banner {
-        flex-direction: column;
-        gap: 5px;
-    }
-}
+
 /* Navbar */
 .navbar {
     position: sticky;
