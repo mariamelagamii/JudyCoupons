@@ -7,79 +7,87 @@
     <title>كوبونات الخصم</title>
 
     <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/style.css">
     <link rel="icon" type="image/png" href="https://b.top4top.io/p_3754q23bj1.png">
 </head>
 
 <body>
 
-    <!-- adv -->
+    <!-- Banner -->
     <div class="top-banner">
         <span>🚀 عندك متجر؟ خلينا نسوقه لك</span>
-
         <a class="whatsapp-btn" href="https://wa.me/966552261549?text=مرحباً، أريد إضافة متجري للتسويق لديكم"
             target="_blank">
             💬 تواصل معنا الآن
         </a>
     </div>
 
-    <!-- NAVBAR -->
-    <div class="navbar" id="navbar">
+    <!-- Navbar -->
+    <div class="navbar">
         <div class="nav-container">
-
             <div class="nav-side">
-                <a href="https://judymarketing.com" class="back-btn">
-                    الرجوع للمتجر →
-                </a>
+                <a href="https://judymarketing.com" class="back-btn">الرجوع للمتجر →</a>
             </div>
 
             <a href="https://judymarketing.com" class="logo">
-                <img src="https://b.top4top.io/p_3754q23bj1.png" alt="logo">
+                <img src="https://b.top4top.io/p_3754q23bj1.png">
             </a>
 
             <div class="nav-side"></div>
-
         </div>
     </div>
+
     <div class="container">
-
-        <div class="banner">
-            <img src="/assets/images/banner.png" alt="JUDY Marketing">
-        </div>
-
+        <div class="banner"> <img src="assets/images/banner.png" alt="JUDY Marketing"> </div>
         <h1>وفر أكثر مع كوبونات Judy</h1>
 
-        <div class="offers-grid" id="offersContainer"></div>
-
-        <div class="instructions">
-            اضغطي على "نسخ" لنسخ الكود فورًا ✅
+        <!-- Main Categories -->
+        <div class="main-categories">
+            <button class="active" data-main="التطبيقات">التطبيقات</button>
+            <button data-main="الثيمات">الثيمات</button>
+            <button data-main="المتاجر">المتاجر</button>
         </div>
 
-    </div>
-    <footer class="custom-footer">
+        <!-- Sub Categories -->
+        <div class="categories-wrapper" id="subWrapper" style="display:none;">
+            <button class="scroll-btn left" id="scrollLeft">›</button>
 
-        <div class="footer-curve"></div>
-
-        <div class="footer-content">
-
-            <div class="footer-logo">
-                <img src="https://b.top4top.io/p_3754q23bj1.png" alt="logo">
+            <div class="sub-categories" id="categories">
+                <button class="active" data-sub="all">الكل</button>
+                <button data-sub="الأزياء">الأزياء</button>
+                <button data-sub="العطور والعود">العطور والعود</button>
+                <button data-sub="المجوهرات والاكسسورات">المجوهرات والاكسسورات</button>
+                <button data-sub="العسل والتمور">العسل والتمور</button>
+                <button data-sub="الالكترونيات">الكترونيات</button>
+                <button data-sub="القهوه والمحاصيل">القهوه والمحاصيل</button>
+                <button data-sub="الديكور والاضاءه">الديكور والاضاءه</button>
+                <button data-sub="منتجات طبيه">منتجات طبيه</button>
+                <button data-sub="المنتجات الرقميه والاشتراكات">المنتجات الرقميه والاشتراكات</button>
+                <button data-sub="آخرى">آخرى</button>
             </div>
 
+            <button class="scroll-btn right" id="scrollRight">‹</button>
+        </div>
+
+        <!-- Offers -->
+        <div class="offers-grid" id="offersContainer"></div>
+
+
+        <div class="instructions"> اضغطي على "نسخ" لنسخ الكود فورًا ✅ </div>
+    </div>
+    <footer class="custom-footer">
+        <div class="footer-curve"></div>
+        <div class="footer-content">
+            <div class="footer-logo"> <img src="https://b.top4top.io/p_3754q23bj1.png" alt="logo"> </div>
             <div>
                 <h3>وسائل التواصل</h3>
-                <div class="footer-social">
-
-                    <a href="https://wa.me/966552261549" target="_blank"> <span>واتساب</span> </a>
-                    <a href="tel:+966552261549"> <span>جوال</span> </a>
-                    <a href="mailto:judymarketing.sa@gmail.com">
-                        <span>البريد</span> </a>
-                    <a href="https://t.me/marketingdropshiping" target="_blank">
+                <div class="footer-social"> <a href="https://wa.me/966552261549" target="_blank"> <span>واتساب</span>
+                    </a>
+                    <a href="tel:+966552261549"> <span>جوال</span> </a> <a href="mailto:judymarketing.sa@gmail.com">
+                        <span>البريد</span> </a> <a href="https://t.me/marketingdropshiping" target="_blank">
                         <span>تيليجرام</span> </a>
                 </div>
             </div>
-
-
             <div class="footer-links">
                 <h3>روابط مهمة</h3>
                 <div class="s-menu-footer-list"><a href="https://judymarketing.com/blog" target="_self"
@@ -89,17 +97,14 @@
                         href="https://judymarketing.com/سياسة-الاستخدام-والخصوصية/page-1703664663" target="_self"
                         class="s-menu-footer-item">سياسة الاستخدام والخصوصية</a><a
                         href="https://judymarketing.com/سياسة-الاسترجاع/page-1394227474" target="_self"
-                        class="s-menu-footer-item">سياسة
-                        الاسترجاع</a><a href="https://judymarketing.com/الشكاوى-والمقترحات/page-678955808"
-                        target="_self" class="s-menu-footer-item">الشكاوى والمقترحات</a><a
+                        class="s-menu-footer-item">سياسة الاسترجاع</a><a
+                        href="https://judymarketing.com/الشكاوى-والمقترحات/page-678955808" target="_self"
+                        class="s-menu-footer-item">الشكاوى والمقترحات</a><a
                         href="https://judymarketing.com/كود-خصم-خاص-لمنصة-سلة-10/page-388391131" target="_self"
                         class="s-menu-footer-item">كود خصم خاص لمنصة سلة 10%</a></div>
             </div>
-
         </div>
-
     </footer>
-
     <script src="assets/js/main.js"></script>
 </body>
 

@@ -1,17 +1,16 @@
 [
   {
-    "name": "باقات سلة",
-    "code": "F-K4JVHRT4",
-    "image": "https://i.postimg.cc/d08890ZG/slh.png"
+    "name": "متجر ملابس",
+    "code": "F12345",
+    "image": "https://i.postimg.cc/d08890ZG/slh.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "الأزياء"
   },
   {
-    "name": "نون",
-    "code": "NOON50",
-    "image": "https://i.postimg.cc/d08890ZG/slh.png"
-  },
-  {
-    "name": "أمازون",
-    "code": "AMZ20",
-    "image": "https://i.postimg.cc/d08890ZG/slh.png"
+    "name": "اشتراك Canva",
+    "code": "CANVA50",
+    "image": "https://i.postimg.cc/d08890ZG/slh.png",
+    "mainCategory": "التطبيقات",
+    "subCategory": ""
   }
 ]
