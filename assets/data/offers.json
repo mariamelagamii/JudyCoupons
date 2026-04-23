@@ -19,5 +19,48 @@
     "image": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/29aea506e427ec4fe2aa0e588d9db38e~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=930c7d63&x-expires=1777122000&x-signature=5jX3bTjnzzXWg5LHYKRM%2FhdFX0U%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my2",
     "mainCategory": "الثيمات",
     "subCategory": ""
-  }
+  },
+  {
+    "name": "باقة سله",
+    "code": "F-FQX8PABN",
+    "image": "https://cdn.salla.network/salla.com/logo-wide-1.svg",
+    "mainCategory": "المتاجر",
+    "subCategory": "آخرى"
+  },
+  {
+    "name": "متجر بكم",
+    "code": "https://mtjr.at/_2FyG_RhyW",
+    "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/mWzeP/2Q22fa9Gm60EG4r6pdTjpMWe42l1zjSzILzHKwME.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "الكترونيات"
+  },
+    {
+    "name": "متجر العراب",
+    "code": "F-WAGHR",
+    "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/vXzzxv/B7yBgIy0wrTEhiSENDJzFoXDWuWvYKIL2png4O7l.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "القهوه والمحاصيل"
+  },
+    {
+    "name": "متجر ثلاث أرباع",
+    "code": "F-PMOVO",
+    "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/KyOpB/uueqzYPAWfI0mBIl20059dQbnbuh2JSOmIjnRGUu.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "الكترونيات"
+  },
+    {
+    "name": "منارة العود",
+    "code": "F-NX9IC",
+    "image": "https://x.com/manaretaloud/photo",
+    "mainCategory": "المتاجر",
+    "subCategory": "العطور والعود"
+  },
+    {
+    "name": "مجوهرات رامس",
+    "code": "F-SKHUQ",
+    "image": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/246ca22b591a6d43c90f858d4f42bff9~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=7388bd10&x-expires=1777125600&x-signature=jDtOa6cYpaYIqQrFhno2mVyFNxg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my2",
+    "mainCategory": "المتاجر",
+    "subCategory": "المجوهرات والاكسسوارات"
+  },
+
 ]
