@@ -7,10 +7,17 @@
     "subCategory": "القهوه والمحاصيل"
   },
   {
-    "name": "اشتراك Canva",
-    "code": "CANVA50",
-    "image": "https://i.postimg.cc/d08890ZG/slh.png",
+    "name": "تطبيق موثق",
+    "code": "F-399W1WUU",
+    "image": "https://salla-dev-portal.s3.eu-central-1.amazonaws.com/uploads/gLLOqPh188KU73my3Z9XEPASjxMolNg0IwxohCZA.jpg",
     "mainCategory": "التطبيقات",
+    "subCategory": ""
+  },
+  {
+    "name": "ثيم سيليا",
+    "code": "F-AIDMVQJG",
+    "image": "https://eslamoo.github.io/selia-videos/logo1.pngg",
+    "mainCategory": "الثيمات",
     "subCategory": ""
   }
 ]
