@@ -28,11 +28,18 @@
     "subCategory": "آخرى"
   },
   {
-    "name": "متجر بكم",
-    "code": "https://mtjr.at/_2FyG_RhyW",
-    "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/mWzeP/2Q22fa9Gm60EG4r6pdTjpMWe42l1zjSzILzHKwME.png",
+    "name": "متجر اسراركو",
+    "code": "F-SWOWL",
+    "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/DGdDlG/KJ1mZX10VAoPDgX7fHUvtzfqhKPXi1lL7cKlL4xl.png",
     "mainCategory": "المتاجر",
-    "subCategory": "الكترونيات"
+    "subCategory": "العطور والعود"
+  },
+  {
+    "name": "مجوهرات رامس",
+    "code": "F-SKHUQ",
+    "image": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/246ca22b591a6d43c90f858d4f42bff9~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=7388bd10&x-expires=1777125600&x-signature=jDtOa6cYpaYIqQrFhno2mVyFNxg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my2",
+    "mainCategory": "المتاجر",
+    "subCategory": "المجوهرات والاكسسوارات"
   },
     {
     "name": "متجر العراب",
@@ -51,14 +58,14 @@
     {
     "name": "منارة العود",
     "code": "F-NX9IC",
-    "image": "https://x.com/manaretaloud/photo",
+    "image": "https://www.facebook.com/photo/?fbid=1420397031818757&set=pb.100015454211180.-2207520000",
     "mainCategory": "المتاجر",
     "subCategory": "العطور والعود"
-  },
+  }, 
     {
-    "name": "مجوهرات رامس",
-    "code": "F-SKHUQ",
-    "image": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/246ca22b591a6d43c90f858d4f42bff9~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=7388bd10&x-expires=1777125600&x-signature=jDtOa6cYpaYIqQrFhno2mVyFNxg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my2",
+    "name": "قمة زاوية الشفاء للذهب والمجوهرات",
+    "code": "F-SKHAY",
+    "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/wvABj/LsnsCyJ13qp3ucuFvSQy23Z6cwMJmvsSSPOFkLBv.png",
     "mainCategory": "المتاجر",
     "subCategory": "المجوهرات والاكسسوارات"
   }
