@@ -1,109 +1,16 @@
-
-
-
-
 [
-{
-"name": "متجر بياك",
-"code": "F-USC4A",
-"image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/mEGGZ/RSAfOBm0aCa9rcBKe4oilKxNYWvLU5Qt0dphgyv7.png",
-"mainCategory": "المتاجر",
-"subCategory": "القهوه والمحاصيل"
-}
-
+  {
+    "name": "متجر بياك",
+    "code": "F-USC4A",
+    "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/mEGGZ/RSAfOBm0aCa9rcBKe4oilKxNYWvLU5Qt0dphgyv7.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "القهوه والمحاصيل"
+  },
+  {
+    "name": "اشتراك Canva",
+    "code": "CANVA50",
+    "image": "https://i.postimg.cc/d08890ZG/slh.png",
+    "mainCategory": "التطبيقات",
+    "subCategory": ""
+  }
 ]
-
-
-احتاج هذا الكود لرفعه فى جيت هوب
-والبيانات هذى فى الصورة بالمرفقات
-حللها لتكون الكود
-وكلها ف قسم القهوه والمحاصيل
-
-Attachment
-image.jpg
-
-الآن استخرجت جميع البيانات من الصورة. سأبني ملف JSON شامل يضم كل المتاجر مع البيانات المطلوبة.
-
-Prepared using Claude Sonnet 4.6
-يلا ارسل الكود
-Completed 2 steps
-
-
-script.py
-Code
-
-stores.json
-JSON
-
-
-stores.json
-JSON
-تفضل! الملف stores.json جاهز للرفع على GitHub.
-
-إليك ملخص ما تم:
-
-إجمالي المتاجر: 31 متجر
-
-البنية المستخدمة لكل متجر:
-
-name — اسم المتجر
-
-code — كود الإحالة (مثل F-2ROKP)
-
-url — رابط المتجر
-
-image — رابط الصورة (إن وُجد من الصورة)
-
-mainCategory — "المتاجر"
-
-subCategory — "القهوه والمحاصيل"
-
-ملاحظة: متجر "زيت الزيتون مليون شجرة" تم تضمينه بكود "غير مفعل" كما هو موضح في الصورة المُرفقة. يمكنك تعديله لاحقاً عند التفعيل.
-
-Prepared using Claude Sonnet 4.6
-Put Perplexity Computer to work
-Computer operates a full browser and terminal to write, run, and test work for you. It delivers finished results as apps, dashboards, and more.
-Generated Code
-
-import json
-
-stores = [
-    {"name": "ترف الاصاله", "code": "F-2ROKP", "url": "https://salla.sa/turf.alasalah", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-    {"name": "عبايات ايسال", "code": "F-EQGWX", "url": "https://salla.sa/isalabayas", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-    {"name": "متجر روح الاناقة sea", "code": "F-YWQGO", "url": "https://salla.sa/7308ef55-ad28-4e71-b59e-d15a8fed7a4f", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-    {"name": "دار الاميرات", "code": "F-IJECT", "url": "https://salla.sa/intend/1945128061", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-    {"name": "بكم", "code": "F-PMOVO", "url": "https://b-kam.com/", "image": "https://mtjr.at/_2FyG_RhyW", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-    {"name": "ثلاث أرباع", "code": "F-PMOVO", "url": "https://3q.sa/", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-    {"name": "فانير", "code": "F-QBHYW", "url": "https://vaneersa.com/?ref=portal.salla.partners", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-    {"name": "عناية الهواء للتجارة", "code": "F-QBHYW", "url": "https://aircare-store.com/", "image": "https://mtjr.at/Xvy08oaDdO", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-    {"name": "الغربي للصناعات الغذائية", "code": "F-QBHYW", "url": "https://algharbis.com/", "image": "https://mtjr.at/z_vHrQuIGI", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-    {"name": "الحواج عسل طبيعي", "code": "F-QBHYW", "url": "https://alhawwaj.com/", "image": "https://mtjr.at/EGHWbnL-km", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-    {"name": "زيت الزيتون مليون شجرة", "code": "غير مفعل", "url": "https://milliontrees.sa/", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-    {"name": "متجر فوتبول", "code": "F-QBHYW", "url": "https://sportswear.sa/", "image": "https://mtjr.at/W5J-G8ReJH", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-    {"name": "بطاقات ايوا aywa", "code": "F-S1W70", "url": "https://sadacards.com/", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-    {"name": "اترماين", "code": "F-K8R6L", "url": "https://itsminesa.com/", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-    {"name": "تيك كارد", "code": "F-IW5QU", "url": "https://take-card.com/", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-    {"name": "كراسي ليدرز", "code": "F-IW5QU", "url": "https://leaderschairs.com/", "image": "https://mtjr.at/DT_2Csu6nT", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-    {"name": "e-seven سفن ستور", "code": "F-NBL8A", "url": "https://eseven-store.com/", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-    {"name": "زاوية التجميل", "code": "F-AUMHR", "url": "https://salla.sa/90cdd17d-977a-4479-bf6d-fb2b18afdf84", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-    {"name": "سند الجملة", "code": "F-AUMHR", "url": "https://sanadwholesale.com/", "image": "https://mtjr.at/eVWZJVC6Mo", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-    {"name": "متجر وقت الشراء", "code": "F-AUMHR", "url": "https://purchase-time.com/", "image": "https://mtjr.at/2TfB3H7VW-", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-    {"name": "مجوهرات اكرا", "code": "F-OACI7", "url": "https://akraluxury.com/", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-    {"name": "لايف بوكس life box", "code": "F-OACI7", "url": "https://salla.sa/LIFEBOX-TRADING", "image": "https://mtjr.at/F4af2B2JX9", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-    {"name": "مفاز", "code": "F-USDU6", "url": "https://f-m.sa/", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-    {"name": "خميلة", "code": "F-USDU6", "url": "https://salla.sa/kamelah", "image": "https://mtjr.at/fzhbl94sJt", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-    {"name": "ماكس بوينت", "code": "F-USDU6", "url": "https://maxpoint.sa/", "image": "https://mtjr.at/l-V-8ksj6_", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-    {"name": "معهد الرواد الوطنية العالي", "code": "F-USDU6", "url": "https://salla.sa/alrowad-edu", "image": "https://mtjr.at/AF9OKIrQZ7", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-    {"name": "مرهاة براند قافي", "code": "F-JKSAL", "url": "https://merhaa.com/", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-    {"name": "كالمنتان للعود", "code": "F-TAZP5", "url": "https://kilmantanoud.com/", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-    {"name": "Cozmazone", "code": "F-TUINR", "url": "https://cozmazone.com/", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-    {"name": "اسراركو", "code": "F-SWOWL", "url": "https://asrar-co.com/", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-    # From user's provided example
-    {"name": "متجر بياك", "code": "F-USC4A", "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/mEGGZ/RSAfOBm0aCa9rcBKe4oilKxNYWvLU5Qt0dphgyv7.png", "mainCategory": "المتاجر", "subCategory": "القهوه والمحاصيل"},
-]
-
-with open("stores.json", "w", encoding="utf-8") as f:
-    json.dump(stores, f, ensure_ascii=False, indent=2)
-
-print(f"Total stores: {len(stores)}")
-print(json.dumps(stores[:2], ensure_ascii=False, indent=2))
