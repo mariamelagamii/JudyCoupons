@@ -23,7 +23,7 @@
   {
     "name": "باقة سله",
     "code": "F-FQX8PABN",
-    "image": "https://cdn.salla.network/salla.com/logo-wide-1.svg",
+    "image": "https://cdn.assets.salla.network/prod/@salla.sa/affiliates-mf/v0.9.219/assets/img/salla.svg",
     "mainCategory": "المتاجر",
     "subCategory": "آخرى"
   },
@@ -288,9 +288,9 @@
     "subCategory": ""
   },
   {
-    "name": "ثيم سيليا",
-    "code": "F-AIDMVQJG",
-    "image": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/29aea506e427ec4fe2aa0e588d9db38e~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=930c7d63&x-expires=1777122000&x-signature=5jX3bTjnzzXWg5LHYKRM%2FhdFX0U%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my2",
+    "name": "ثيم رحلة",
+    "code": "F-JHYQFCT5",
+    "image": "https://salla-dev-portal.s3.eu-central-1.amazonaws.com/uploads/GFUEFzsC4i4OPfBd8ySS5iGEPwELo3PNJkr8kW8B.png",
     "mainCategory": "الثيمات",
     "subCategory": ""
   },
@@ -500,7 +500,7 @@
   {
     "name": "ثيم قصص",
     "code": "F-GXTRF2YA",
-    "image": "https://cdn.assets.salla.network/prod/@salla.sa/affiliates-mf/v0.9.219/assets/img/salla.svg",
+    "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/XeAvjb/tmf3A11s6VaTwobeGdFUqXEv4azpV3eD5Fm7HxZI.png",
     "mainCategory": "الثيمات",
     "subCategory": ""
   },
@@ -561,9 +561,9 @@
     "subCategory": ""
   },
   {
-    "name": "ثيم سيليا",
-    "code": "F-AIDMVQJG",
-    "image": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/29aea506e427ec4fe2aa0e588d9db38e~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=930c7d63&x-expires=1777122000&x-signature=5jX3bTjnzzXWg5LHYKRM%2FhdFX0U%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my2",
+    "name": "ثيم خيال",
+    "code": "F-RV8U0OQ6",
+    "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/EZOppG/qGVjlBegdNHukaRqmoqOArYnhHLyFSqxsrYALUmS.png",
     "mainCategory": "الثيمات",
     "subCategory": ""
   },
@@ -631,9 +631,9 @@
     "subCategory": ""
   },
   {
-    "name": "ثيم سيليا",
-    "code": "F-AIDMVQJG",
-    "image": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/29aea506e427ec4fe2aa0e588d9db38e~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=930c7d63&x-expires=1777122000&x-signature=5jX3bTjnzzXWg5LHYKRM%2FhdFX0U%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my2",
+    "name": "ثيم نايا",
+    "code": "F-M5NOYIYW",
+    "image": "https://salla-dev-portal.s3.eu-central-1.amazonaws.com/uploads/NEnS4mH5v8pd8jYHlEvKvzZfLXMJW8Uh9ER7hqpP.png",
     "mainCategory": "الثيمات",
     "subCategory": ""
   },
@@ -701,9 +701,9 @@
     "subCategory": ""
   },
   {
-    "name": "ثيم سيليا",
-    "code": "F-AIDMVQJG",
-    "image": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/29aea506e427ec4fe2aa0e588d9db38e~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=930c7d63&x-expires=1777122000&x-signature=5jX3bTjnzzXWg5LHYKRM%2FhdFX0U%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my2",
+    "name": "ثيم ازال",
+    "code": "F-EG7PJ1AS",
+    "image": "https://salla-dev-portal.s3.eu-central-1.amazonaws.com/uploads/Ov8K20qlARoufcMs8Bum21A6hzh9npiGb4svMywD.png",
     "mainCategory": "الثيمات",
     "subCategory": ""
   },
