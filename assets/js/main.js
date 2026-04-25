@@ -20,20 +20,21 @@ function displayOffers(data) {
     .map((offer) => {
       const link = offer.link || "https://judymarketing.com/";
 
+      // Inside displayOffers map function:
       return `
-        <div class="offer-card">
-            <div class="app-logo">
-                <a href="${link}" target="_blank">
-                    <img src="${offer.image}">
-                </a>
-            </div>
-            <div class="app-name">${offer.name}</div>
-            <div class="offer-code">
-                <span class="code">${offer.code}</span>
-                <button class="copy-btn" onclick="copyCode('${offer.code}', event)">نسخ</button>
-            </div>
-        </div>
-      `;
+  <div class="offer-card">
+      <div class="app-logo">
+          <a href="${link}" target="_blank">
+              <img src="${offer.image}">
+          </a>
+      </div>
+      <div class="app-name">${offer.name}</div>
+      <div class="offer-code">
+          <span class="code">${offer.code}</span>
+          <button type="button" class="copy-btn" onclick="copyCode('${offer.code}', event)">نسخ</button>
+      </div>
+  </div>
+`;
     })
     .join("");
 }
@@ -103,17 +104,26 @@ document.getElementById("scrollRight").onclick = () => {
 };
 
 /* Copy */
-function copyCode(code, btn) {
-  navigator.clipboard.writeText(code);
+function copyCode(code, event) {
+  const btn = event.currentTarget;
 
-  btn.innerText = "تم";
-  btn.classList.add("copied");
+  navigator.clipboard
+    .writeText(code)
+    .then(() => {
+      const originalText = btn.innerText;
+      btn.innerText = "تم";
+      btn.classList.add("copied");
 
-  setTimeout(() => {
-    btn.innerText = "نسخ";
-    btn.classList.remove("copied");
-  }, 2000);
+      setTimeout(() => {
+        btn.innerText = originalText;
+        btn.classList.remove("copied");
+      }, 2000);
+    })
+    .catch((err) => {
+      console.error("Failed to copy: ", err);
+    });
 }
+
 function copyCodeSalla(code, btn) {
   navigator.clipboard.writeText(code);
 
