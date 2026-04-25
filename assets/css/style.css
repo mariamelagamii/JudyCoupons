@@ -194,6 +194,7 @@ a {
 
 .hero h1 span{
   color: #6d28d9;
+  display: block;
 }
 
 .hero-text p{
