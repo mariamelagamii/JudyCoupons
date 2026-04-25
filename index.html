@@ -9,6 +9,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="icon" type="image/png" href="https://b.top4top.io/p_3754q23bj1.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 
 <body>
@@ -38,9 +39,67 @@
     </div>
 
     <div class="container">
-        <div class="banner"> <img src="assets/images/banner.png" alt="JUDY Marketing"> </div>
-        <h1>وفر أكثر مع كوبونات Judy</h1>
+        <section class="hero">
+            <div class="container">
+                <div class="hero-text">
 
+                    <span class="badge"> أحدث أكواد خصم 2026</span>
+
+                    <h1>
+                        اشترك الآن في باقات سلة<br>
+                        ووفر أكثر مع <span>Judy Marketing</span>
+                    </h1>
+
+                    <p>
+                        احصل على أقوى أكواد الخصم والعروض الحصرية من أكبر المتاجر.
+                        انسخ الكود وابدأ التوفير الآن بدون تعقيد.
+                    </p>
+
+                    <div class="buttons">
+                        <a href="https://salla.com/plans" class="btn primary">اشترك الآن <i
+                                class="fa-solid fa-chevron-left"></i></a>
+                        <a href="#coupons" class="btn secondary">تصفح الكوبونات <i class="fa-solid fa-tag"></i></a>
+                    </div>
+
+                    <div class="stats">
+                        <div><i class="fa-regular fa-star purpleColor"></i> +500 كوبون</div>
+                        <div><i class="fa-solid fa-arrows-rotate purpleColor"></i> تحديث يومي</div>
+                        <div><i class="fa-solid fa-lock purpleColor"></i> أكواد مضمونة</div>
+                    </div>
+
+                </div>
+
+                <div class="hero-cards">
+
+                    <div class="card plus">
+                        <img src="assets/images/salla-logo.svg" alt="salla">
+                        <div class="logo">Salla Plus</div>
+                        <p> خصم علي سلة بلس </p>
+                        <div class="code">F-FQX8PABN</div>
+                        <button onclick="copyCodeSalla('F-FQX8PABN', this)">
+                            نسخ الكود <i class="fa-regular fa-copy"></i>
+                        </button>
+                        <a href="https://salla.com/plans/">عرض المتجر</a>
+                    </div>
+
+                    <div class="card pro">
+                        <img src="assets/images/salla-logo.svg" alt="salla">
+                        <div class="logo">Salla Pro</div>
+                        <p> خصم علي سلة برو </p>
+                        <div class="code">F-FQX8PABN</div>
+                        <button onclick="copyCodeSalla('F-FQX8PABN', this)">
+                            نسخ الكود <i class="fa-regular fa-copy"></i>
+                        </button>
+                        <a href="https://salla.com/plans">عرض المتجر</a>
+                    </div>
+
+                </div>
+
+            </div>
+        </section>
+        <div class="banner" id="coupons"> <img src="assets/images/banner.png" alt="JUDY Marketing"> </div>
+        <h1>وفر أكثر مع كوبونات Judy</h1>
+        <div class="instructions">✅ اضغط على "نسخ" لنسخ الكود فورًا ولزيارة المتجر اضغط على الشعار.</div>
         <!-- Main Categories -->
         <div class="main-categories">
             <button class="active" data-main="المتاجر">المتاجر</button>
@@ -74,7 +133,7 @@
         <div class="offers-grid" id="offersContainer"></div>
 
 
-        <div class="instructions"> اضغطي على "نسخ" لنسخ الكود فورًا ✅ </div>
+
     </div>
     <footer class="custom-footer">
         <div class="footer-curve"></div>

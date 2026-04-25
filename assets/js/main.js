@@ -17,20 +17,24 @@ function displayOffers(data) {
   }
 
   container.innerHTML = data
-    .map(
-      (offer) => `
-    <div class="offer-card">
-        <div class="app-logo">
-            <img src="${offer.image}">
+    .map((offer) => {
+      const link = offer.link || "https://judymarketing.com/";
+
+      return `
+        <div class="offer-card">
+            <div class="app-logo">
+                <a href="${link}" target="_blank">
+                    <img src="${offer.image}">
+                </a>
+            </div>
+            <div class="app-name">${offer.name}</div>
+            <div class="offer-code">
+                <span class="code">${offer.code}</span>
+                <button class="copy-btn" onclick="copyCode('${offer.code}', event)">نسخ</button>
+            </div>
         </div>
-        <div class="app-name">${offer.name}</div>
-        <div class="offer-code">
-            <span class="code">${offer.code}</span>
-            <button class="copy-btn" onclick="copyCode('${offer.code}', this)">نسخ</button>
-        </div>
-    </div>
-  `,
-    )
+      `;
+    })
     .join("");
 }
 
@@ -107,6 +111,17 @@ function copyCode(code, btn) {
 
   setTimeout(() => {
     btn.innerText = "نسخ";
+    btn.classList.remove("copied");
+  }, 2000);
+}
+function copyCodeSalla(code, btn) {
+  navigator.clipboard.writeText(code);
+
+  btn.innerHTML = 'تم نسخ الكود <i class="fa-solid fa-clipboard-check"></i>';
+  btn.classList.add("copied");
+
+  setTimeout(() => {
+    btn.innerHTML = 'نسخ الكود <i class="fa-regular fa-copy"></i>';
     btn.classList.remove("copied");
   }, 2000);
 }

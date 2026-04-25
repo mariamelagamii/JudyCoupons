@@ -4,7 +4,8 @@
     "code": "F-USC4A",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/mEGGZ/RSAfOBm0aCa9rcBKe4oilKxNYWvLU5Qt0dphgyv7.png",
     "mainCategory": "المتاجر",
-    "subCategory": "القهوه والمحاصيل"
+    "subCategory": "القهوه والمحاصيل",
+    "link": "https://example.com"
   },
   {
     "name": "تطبيق موثق",
@@ -41,35 +42,35 @@
     "mainCategory": "المتاجر",
     "subCategory": "المجوهرات والاكسسوارات"
   },
-    {
+  {
     "name": "متجر العراب",
     "code": "F-WAGHR",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/vXzzxv/B7yBgIy0wrTEhiSENDJzFoXDWuWvYKIL2png4O7l.png",
     "mainCategory": "المتاجر",
     "subCategory": "القهوه والمحاصيل"
   },
-    {
+  {
     "name": "متجر ثلاث أرباع",
     "code": "F-PMOVO",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/KyOpB/uueqzYPAWfI0mBIl20059dQbnbuh2JSOmIjnRGUu.png",
     "mainCategory": "المتاجر",
     "subCategory": "الكترونيات"
   },
-    {
+  {
     "name": "منارة العود",
     "code": "F-NX9IC",
     "image": "https://cdn.allcouponat.com/ar/2026/01/31235556/Minaret-Aloud-promo-code-logo-png.png",
     "mainCategory": "المتاجر",
     "subCategory": "العطور والعود"
-  }, 
-    {
+  },
+  {
     "name": "قمة زاوية الشفاء للذهب والمجوهرات",
     "code": "F-SKHAY",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/wvABj/LsnsCyJ13qp3ucuFvSQy23Z6cwMJmvsSSPOFkLBv.png",
     "mainCategory": "المتاجر",
     "subCategory": "المجوهرات والاكسسوارات"
   },
-{
+  {
     "name": "متجر بياك",
     "code": "F-USC4A",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/mEGGZ/RSAfOBm0aCa9rcBKe4oilKxNYWvLU5Qt0dphgyv7.png",
@@ -111,28 +112,28 @@
     "mainCategory": "المتاجر",
     "subCategory": "المجوهرات والاكسسوارات"
   },
-    {
+  {
     "name": "متجر العراب",
     "code": "F-WAGHR",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/vXzzxv/B7yBgIy0wrTEhiSENDJzFoXDWuWvYKIL2png4O7l.png",
     "mainCategory": "المتاجر",
     "subCategory": "القهوه والمحاصيل"
   },
-    {
+  {
     "name": "متجر ثلاث أرباع",
     "code": "F-PMOVO",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/KyOpB/uueqzYPAWfI0mBIl20059dQbnbuh2JSOmIjnRGUu.png",
     "mainCategory": "المتاجر",
     "subCategory": "الكترونيات"
   },
-    {
+  {
     "name": "منارة العود",
     "code": "F-NX9IC",
     "image": "https://cdn.allcouponat.com/ar/2026/01/31235556/Minaret-Aloud-promo-code-logo-png.png",
     "mainCategory": "المتاجر",
     "subCategory": "العطور والعود"
-  }, 
-    {
+  },
+  {
     "name": "قمة زاوية الشفاء للذهب والمجوهرات",
     "code": "F-SKHAY",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/wvABj/LsnsCyJ13qp3ucuFvSQy23Z6cwMJmvsSSPOFkLBv.png",
@@ -181,28 +182,28 @@
     "mainCategory": "المتاجر",
     "subCategory": "المجوهرات والاكسسوارات"
   },
-    {
+  {
     "name": "متجر العراب",
     "code": "F-WAGHR",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/vXzzxv/B7yBgIy0wrTEhiSENDJzFoXDWuWvYKIL2png4O7l.png",
     "mainCategory": "المتاجر",
     "subCategory": "القهوه والمحاصيل"
   },
-    {
+  {
     "name": "متجر ثلاث أرباع",
     "code": "F-PMOVO",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/KyOpB/uueqzYPAWfI0mBIl20059dQbnbuh2JSOmIjnRGUu.png",
     "mainCategory": "المتاجر",
     "subCategory": "الكترونيات"
   },
-    {
+  {
     "name": "منارة العود",
     "code": "F-NX9IC",
     "image": "https://cdn.allcouponat.com/ar/2026/01/31235556/Minaret-Aloud-promo-code-logo-png.png",
     "mainCategory": "المتاجر",
     "subCategory": "العطور والعود"
-  }, 
-    {
+  },
+  {
     "name": "قمة زاوية الشفاء للذهب والمجوهرات",
     "code": "F-SKHAY",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/wvABj/LsnsCyJ13qp3ucuFvSQy23Z6cwMJmvsSSPOFkLBv.png",
@@ -251,35 +252,34 @@
     "mainCategory": "المتاجر",
     "subCategory": "المجوهرات والاكسسوارات"
   },
-    {
+  {
     "name": "متجر العراب",
     "code": "F-WAGHR",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/vXzzxv/B7yBgIy0wrTEhiSENDJzFoXDWuWvYKIL2png4O7l.png",
     "mainCategory": "المتاجر",
     "subCategory": "القهوه والمحاصيل"
   },
-    {
+  {
     "name": "متجر ثلاث أرباع",
     "code": "F-PMOVO",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/KyOpB/uueqzYPAWfI0mBIl20059dQbnbuh2JSOmIjnRGUu.png",
     "mainCategory": "المتاجر",
     "subCategory": "الكترونيات"
   },
-    {
+  {
     "name": "منارة العود",
     "code": "F-NX9IC",
     "image": "https://cdn.allcouponat.com/ar/2026/01/31235556/Minaret-Aloud-promo-code-logo-png.png",
     "mainCategory": "المتاجر",
     "subCategory": "العطور والعود"
-  }, 
-    {
+  },
+  {
     "name": "قمة زاوية الشفاء للذهب والمجوهرات",
     "code": "F-SKHAY",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/wvABj/LsnsCyJ13qp3ucuFvSQy23Z6cwMJmvsSSPOFkLBv.png",
     "mainCategory": "المتاجر",
     "subCategory": "المجوهرات والاكسسوارات"
-
-      },
+  },
   {
     "name": "تطبيق موثق",
     "code": "F-399W1WUU",
@@ -315,35 +315,35 @@
     "mainCategory": "المتاجر",
     "subCategory": "المجوهرات والاكسسوارات"
   },
-    {
+  {
     "name": "متجر العراب",
     "code": "F-WAGHR",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/vXzzxv/B7yBgIy0wrTEhiSENDJzFoXDWuWvYKIL2png4O7l.png",
     "mainCategory": "المتاجر",
     "subCategory": "القهوه والمحاصيل"
   },
-    {
+  {
     "name": "متجر ثلاث أرباع",
     "code": "F-PMOVO",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/KyOpB/uueqzYPAWfI0mBIl20059dQbnbuh2JSOmIjnRGUu.png",
     "mainCategory": "المتاجر",
     "subCategory": "الكترونيات"
   },
-    {
+  {
     "name": "منارة العود",
     "code": "F-NX9IC",
     "image": "https://cdn.allcouponat.com/ar/2026/01/31235556/Minaret-Aloud-promo-code-logo-png.png",
     "mainCategory": "المتاجر",
     "subCategory": "العطور والعود"
-  }, 
-    {
+  },
+  {
     "name": "قمة زاوية الشفاء للذهب والمجوهرات",
     "code": "F-SKHAY",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/wvABj/LsnsCyJ13qp3ucuFvSQy23Z6cwMJmvsSSPOFkLBv.png",
     "mainCategory": "المتاجر",
     "subCategory": "المجوهرات والاكسسوارات"
   },
-{
+  {
     "name": "متجر بياك",
     "code": "F-USC4A",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/mEGGZ/RSAfOBm0aCa9rcBKe4oilKxNYWvLU5Qt0dphgyv7.png",
@@ -385,28 +385,28 @@
     "mainCategory": "المتاجر",
     "subCategory": "المجوهرات والاكسسوارات"
   },
-    {
+  {
     "name": "متجر العراب",
     "code": "F-WAGHR",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/vXzzxv/B7yBgIy0wrTEhiSENDJzFoXDWuWvYKIL2png4O7l.png",
     "mainCategory": "المتاجر",
     "subCategory": "القهوه والمحاصيل"
   },
-    {
+  {
     "name": "متجر ثلاث أرباع",
     "code": "F-PMOVO",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/KyOpB/uueqzYPAWfI0mBIl20059dQbnbuh2JSOmIjnRGUu.png",
     "mainCategory": "المتاجر",
     "subCategory": "الكترونيات"
   },
-    {
+  {
     "name": "منارة العود",
     "code": "F-NX9IC",
     "image": "https://cdn.allcouponat.com/ar/2026/01/31235556/Minaret-Aloud-promo-code-logo-png.png",
     "mainCategory": "المتاجر",
     "subCategory": "العطور والعود"
-  }, 
-    {
+  },
+  {
     "name": "قمة زاوية الشفاء للذهب والمجوهرات",
     "code": "F-SKHAY",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/wvABj/LsnsCyJ13qp3ucuFvSQy23Z6cwMJmvsSSPOFkLBv.png",
@@ -455,28 +455,28 @@
     "mainCategory": "المتاجر",
     "subCategory": "المجوهرات والاكسسوارات"
   },
-    {
+  {
     "name": "متجر العراب",
     "code": "F-WAGHR",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/vXzzxv/B7yBgIy0wrTEhiSENDJzFoXDWuWvYKIL2png4O7l.png",
     "mainCategory": "المتاجر",
     "subCategory": "القهوه والمحاصيل"
   },
-    {
+  {
     "name": "متجر ثلاث أرباع",
     "code": "F-PMOVO",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/KyOpB/uueqzYPAWfI0mBIl20059dQbnbuh2JSOmIjnRGUu.png",
     "mainCategory": "المتاجر",
     "subCategory": "الكترونيات"
   },
-    {
+  {
     "name": "منارة العود",
     "code": "F-NX9IC",
     "image": "https://cdn.allcouponat.com/ar/2026/01/31235556/Minaret-Aloud-promo-code-logo-png.png",
     "mainCategory": "المتاجر",
     "subCategory": "العطور والعود"
-  }, 
-    {
+  },
+  {
     "name": "قمة زاوية الشفاء للذهب والمجوهرات",
     "code": "F-SKHAY",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/wvABj/LsnsCyJ13qp3ucuFvSQy23Z6cwMJmvsSSPOFkLBv.png",
@@ -525,34 +525,34 @@
     "mainCategory": "المتاجر",
     "subCategory": "المجوهرات والاكسسوارات"
   },
-    {
+  {
     "name": "متجر العراب",
     "code": "F-WAGHR",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/vXzzxv/B7yBgIy0wrTEhiSENDJzFoXDWuWvYKIL2png4O7l.png",
     "mainCategory": "المتاجر",
     "subCategory": "القهوه والمحاصيل"
   },
-    {
+  {
     "name": "متجر ثلاث أرباع",
     "code": "F-PMOVO",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/KyOpB/uueqzYPAWfI0mBIl20059dQbnbuh2JSOmIjnRGUu.png",
     "mainCategory": "المتاجر",
     "subCategory": "الكترونيات"
   },
-    {
+  {
     "name": "منارة العود",
     "code": "F-NX9IC",
     "image": "https://cdn.allcouponat.com/ar/2026/01/31235556/Minaret-Aloud-promo-code-logo-png.png",
     "mainCategory": "المتاجر",
     "subCategory": "العطور والعود"
-  }, 
-    {
+  },
+  {
     "name": "قمة زاوية الشفاء للذهب والمجوهرات",
     "code": "F-SKHAY",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/wvABj/LsnsCyJ13qp3ucuFvSQy23Z6cwMJmvsSSPOFkLBv.png",
     "mainCategory": "المتاجر",
     "subCategory": "المجوهرات والاكسسوارات"
-      },
+  },
   {
     "name": "تطبيق موثق",
     "code": "F-399W1WUU",
@@ -588,35 +588,35 @@
     "mainCategory": "المتاجر",
     "subCategory": "المجوهرات والاكسسوارات"
   },
-    {
+  {
     "name": "متجر العراب",
     "code": "F-WAGHR",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/vXzzxv/B7yBgIy0wrTEhiSENDJzFoXDWuWvYKIL2png4O7l.png",
     "mainCategory": "المتاجر",
     "subCategory": "القهوه والمحاصيل"
   },
-    {
+  {
     "name": "متجر ثلاث أرباع",
     "code": "F-PMOVO",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/KyOpB/uueqzYPAWfI0mBIl20059dQbnbuh2JSOmIjnRGUu.png",
     "mainCategory": "المتاجر",
     "subCategory": "الكترونيات"
   },
-    {
+  {
     "name": "منارة العود",
     "code": "F-NX9IC",
     "image": "https://cdn.allcouponat.com/ar/2026/01/31235556/Minaret-Aloud-promo-code-logo-png.png",
     "mainCategory": "المتاجر",
     "subCategory": "العطور والعود"
-  }, 
-    {
+  },
+  {
     "name": "قمة زاوية الشفاء للذهب والمجوهرات",
     "code": "F-SKHAY",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/wvABj/LsnsCyJ13qp3ucuFvSQy23Z6cwMJmvsSSPOFkLBv.png",
     "mainCategory": "المتاجر",
     "subCategory": "المجوهرات والاكسسوارات"
   },
-{
+  {
     "name": "متجر بياك",
     "code": "F-USC4A",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/mEGGZ/RSAfOBm0aCa9rcBKe4oilKxNYWvLU5Qt0dphgyv7.png",
@@ -658,28 +658,28 @@
     "mainCategory": "المتاجر",
     "subCategory": "المجوهرات والاكسسوارات"
   },
-    {
+  {
     "name": "متجر العراب",
     "code": "F-WAGHR",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/vXzzxv/B7yBgIy0wrTEhiSENDJzFoXDWuWvYKIL2png4O7l.png",
     "mainCategory": "المتاجر",
     "subCategory": "القهوه والمحاصيل"
   },
-    {
+  {
     "name": "متجر ثلاث أرباع",
     "code": "F-PMOVO",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/KyOpB/uueqzYPAWfI0mBIl20059dQbnbuh2JSOmIjnRGUu.png",
     "mainCategory": "المتاجر",
     "subCategory": "الكترونيات"
   },
-    {
+  {
     "name": "منارة العود",
     "code": "F-NX9IC",
     "image": "https://cdn.allcouponat.com/ar/2026/01/31235556/Minaret-Aloud-promo-code-logo-png.png",
     "mainCategory": "المتاجر",
     "subCategory": "العطور والعود"
-  }, 
-    {
+  },
+  {
     "name": "قمة زاوية الشفاء للذهب والمجوهرات",
     "code": "F-SKHAY",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/wvABj/LsnsCyJ13qp3ucuFvSQy23Z6cwMJmvsSSPOFkLBv.png",
@@ -728,28 +728,28 @@
     "mainCategory": "المتاجر",
     "subCategory": "المجوهرات والاكسسوارات"
   },
-    {
+  {
     "name": "متجر العراب",
     "code": "F-WAGHR",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/vXzzxv/B7yBgIy0wrTEhiSENDJzFoXDWuWvYKIL2png4O7l.png",
     "mainCategory": "المتاجر",
     "subCategory": "القهوه والمحاصيل"
   },
-    {
+  {
     "name": "متجر ثلاث أرباع",
     "code": "F-PMOVO",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/KyOpB/uueqzYPAWfI0mBIl20059dQbnbuh2JSOmIjnRGUu.png",
     "mainCategory": "المتاجر",
     "subCategory": "الكترونيات"
   },
-    {
+  {
     "name": "منارة العود",
     "code": "F-NX9IC",
     "image": "https://cdn.allcouponat.com/ar/2026/01/31235556/Minaret-Aloud-promo-code-logo-png.png",
     "mainCategory": "المتاجر",
     "subCategory": "العطور والعود"
-  }, 
-    {
+  },
+  {
     "name": "قمة زاوية الشفاء للذهب والمجوهرات",
     "code": "F-SKHAY",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/wvABj/LsnsCyJ13qp3ucuFvSQy23Z6cwMJmvsSSPOFkLBv.png",
@@ -798,28 +798,28 @@
     "mainCategory": "المتاجر",
     "subCategory": "المجوهرات والاكسسوارات"
   },
-    {
+  {
     "name": "متجر العراب",
     "code": "F-WAGHR",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/vXzzxv/B7yBgIy0wrTEhiSENDJzFoXDWuWvYKIL2png4O7l.png",
     "mainCategory": "المتاجر",
     "subCategory": "القهوه والمحاصيل"
   },
-    {
+  {
     "name": "متجر ثلاث أرباع",
     "code": "F-PMOVO",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/KyOpB/uueqzYPAWfI0mBIl20059dQbnbuh2JSOmIjnRGUu.png",
     "mainCategory": "المتاجر",
     "subCategory": "الكترونيات"
   },
-    {
+  {
     "name": "منارة العود",
     "code": "F-NX9IC",
     "image": "https://cdn.allcouponat.com/ar/2026/01/31235556/Minaret-Aloud-promo-code-logo-png.png",
     "mainCategory": "المتاجر",
     "subCategory": "العطور والعود"
-  }, 
-    {
+  },
+  {
     "name": "قمة زاوية الشفاء للذهب والمجوهرات",
     "code": "F-SKHAY",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/wvABj/LsnsCyJ13qp3ucuFvSQy23Z6cwMJmvsSSPOFkLBv.png",
