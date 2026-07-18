@@ -14,29 +14,27 @@
 
 <body>
 
-    <!-- Banner -->
     <div class="top-banner">
-        <span>🚀 عندك متجر؟ خلينا نسوقه لك</span>
+        <span><i class="fa-solid fa-wand-magic-sparkles"></i> عندك متجر؟ خلينا نصممه ونسوقه لك</span>
         <a class="whatsapp-btn" href="https://wa.me/966552261549?text=مرحباً، أريد إضافة متجري للتسويق لديكم"
             target="_blank">
-            💬 تواصل معنا الآن
+            <i class="fa-brands fa-whatsapp"></i> تواصل معنا الآن
         </a>
     </div>
 
     <!-- Navbar -->
-    <div class="navbar">
+    <header class="navbar" id="navbar">
         <div class="nav-container">
-            <div class="nav-side">
-                <a href="https://judymarketing.com" class="back-btn">الرجوع للمتجر →</a>
-            </div>
-
-            <a href="https://judymarketing.com" class="logo">
-                <img src="https://b.top4top.io/p_3754q23bj1.png">
+            <a href="https://judymarketing.com" class="logo" aria-label="Judy Marketing">
+                <img src="https://b.top4top.io/p_3754q23bj1.png" alt="Judy Marketing">
             </a>
-
-            <div class="nav-side"></div>
+            <nav class="nav-links" aria-label="التنقل الرئيسي">
+                <a href="https://judymarketing.com">الرئيسية</a>
+                <a href="https://judymarketing.com" class="active">كوبونات الخصم</a>
+                <a href="#portfolio">أعمالنا</a>
+            </nav>
         </div>
-    </div>
+    </header>
 
     <div class="container">
         <section class="hero">
@@ -188,6 +186,9 @@
             <span>© <span id="year"></span> Judy Marketing — جميع الحقوق محفوظة</span>
         </div>
     </footer>
+    <button id="scrollTopBtn" aria-label="العودة للأعلى">
+        <i class="fa-solid fa-chevron-up"></i>
+    </button>
     <script src="assets/js/main.js"></script>
 </body>
 

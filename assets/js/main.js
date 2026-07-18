@@ -135,5 +135,22 @@ function copyCodeSalla(code, btn) {
     btn.classList.remove("copied");
   }, 2000);
 }
-
+// Set current year in footer
+document.getElementById("year").textContent = new Date().getFullYear();
+// Scroll to top button
+const scrollBtn = document.getElementById("scrollTopBtn");
+window.addEventListener("scroll", () => {
+  if (window.scrollY > 400) {
+    scrollBtn.classList.add("show");
+  } else {
+    scrollBtn.classList.remove("show");
+  }
+});
+scrollBtn.addEventListener("click", () => {
+  window.scrollTo({
+    top: 0,
+    behavior: "smooth",
+  });
+});
+// Load offers on page load
 loadOffers();
