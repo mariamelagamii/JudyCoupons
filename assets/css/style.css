@@ -129,7 +129,7 @@ a {
 }
 
 .logo img {
-  width: 150px;
+  width: 100px;
   max-height: 66px;
   object-fit: contain;
 }
@@ -145,7 +145,7 @@ a {
   font-size: 15px;
   font-weight: 600;
   position: relative;
-  padding-block: 29px;
+  padding-block: 20px;
   transition: 0.25s ease;
 }
 
