@@ -200,7 +200,11 @@ a {
   }
 
   .logo img {
-    width: 118px;
+    width: 90px;
+  }
+  .nav-links a {
+    font-size: 12px;
+    font-weight: 500;
   }
 }
 /* Scroll effect */
