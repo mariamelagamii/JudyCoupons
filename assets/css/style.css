@@ -942,3 +942,11 @@ img {
 #scrollTopBtn:active {
     transform: scale(.95);
 }
+/* بحث وعرض المزيد */
+.offer-search { display: flex; justify-content: center; margin: 18px auto 6px; max-width: 520px; padding: 0 16px; }
+.offer-search input { width: 100%; border: 1px solid #e3e1fb; background: #fff; border-radius: 25px; padding: 12px 20px; font: inherit; font-size: 15px; outline: none; transition: border-color .2s, box-shadow .2s; }
+.offer-search input:focus { border-color: #6c5ce7; box-shadow: 0 0 0 4px rgba(108, 92, 231, .12); }
+.load-more { display: none; margin: 26px auto 40px; border: none; cursor: pointer; padding: 12px 34px; border-radius: 25px; font: inherit; font-size: 15px; color: #fff; background: linear-gradient(45deg, #6c5ce7, #4834d4); box-shadow: 0 4px 12px rgba(108, 92, 231, .3); transition: transform .15s; }
+.load-more:hover { transform: translateY(-2px); }
+.load-more:active { transform: translateY(0) scale(.98); }
+a.copy-btn { text-decoration: none; display: inline-flex; align-items: center; }
