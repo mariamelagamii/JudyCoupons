@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://coupons.judymarketing.com/sitemap.xml
