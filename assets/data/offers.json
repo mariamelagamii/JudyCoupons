@@ -23,13 +23,6 @@
     "link": "https://mtjr.at/6aa8111bhxdhek"
   },
   {
-    "name": "تطبيق موثق",
-    "code": "F-399W1WUU",
-    "image": "https://salla-dev-portal.s3.eu-central-1.amazonaws.com/uploads/gLLOqPh188KU73my3Z9XEPASjxMolNg0IwxohCZA.jpg",
-    "mainCategory": "التطبيقات",
-    "subCategory": ""
-  },
-  {
     "name": "ثيم سيليا",
     "code": "F-AIDMVQJG",
     "image": "https://c.top4top.io/p_3951gxqfo1.png",
@@ -37,39 +30,11 @@
     "subCategory": ""
   },
   {
-    "name": "متجر اسراركو",
-    "code": "F-SWOWL",
-    "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/DGdDlG/KJ1mZX10VAoPDgX7fHUvtzfqhKPXi1lL7cKlL4xl.png",
-    "mainCategory": "المتاجر",
-    "subCategory": "العطور والعود"
-  },
-  {
     "name": "متجر العراب",
     "code": "F-WAGHR",
     "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/vXzzxv/B7yBgIy0wrTEhiSENDJzFoXDWuWvYKIL2png4O7l.png",
     "mainCategory": "المتاجر",
     "subCategory": "القهوه والمحاصيل"
-  },
-  {
-    "name": "متجر ثلاث أرباع",
-    "code": "F-PMOVO",
-    "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/KyOpB/uueqzYPAWfI0mBIl20059dQbnbuh2JSOmIjnRGUu.png",
-    "mainCategory": "المتاجر",
-    "subCategory": "الكترونيات"
-  },
-  {
-    "name": "منارة العود",
-    "code": "F-NX9IC",
-    "image": "https://cdn.allcouponat.com/ar/2026/01/31235556/Minaret-Aloud-promo-code-logo-png.png",
-    "mainCategory": "المتاجر",
-    "subCategory": "العطور والعود"
-  },
-  {
-    "name": "قمة زاوية الشفاء للذهب والمجوهرات",
-    "code": "F-SKHAY",
-    "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/wvABj/LsnsCyJ13qp3ucuFvSQy23Z6cwMJmvsSSPOFkLBv.png",
-    "mainCategory": "المتاجر",
-    "subCategory": "المجوهرات والاكسسوارات"
   },
   {
     "name": "كبسولات نباتيه",
@@ -102,14 +67,6 @@
     "mainCategory": "المتاجر",
     "subCategory": "التعليم",
     "link": "https://mtjr.at/i0MH2yCeJy"
-  },
-  {
-    "name": "مؤسسة حفظ النقطة لتقنية المعلومات",
-    "code": "F-UY2JL",
-    "image": "https://cdn.salla.sa/cdn-cgi/image/fit=scale-down,width=400,height=400,onerror=redirect,format=auto/anAOK/ZulYqOyhpYdMele5XIwa0dwDK5jdkWLotsTF6R7O.png",
-    "mainCategory": "المتاجر",
-    "subCategory": "الكترونيات",
-    "link": "https://mtjr.at/T91q5VZSyS"
   },
   {
     "name": "Burgundy متجر برجندي",
@@ -598,14 +555,6 @@
     "mainCategory": "المتاجر",
     "subCategory": "الرياضة واللياقة",
     "link": "https://mtjr.at/6aff91a26sgx9f"
-  },
-  {
-    "name": "اتزماين",
-    "code": "F-K8R6L",
-    "image": "https://cdn.files.salla.network/other/1715944651/c2cafca0-6052-4fbb-bd99-5af9bd644aa3-original.webp",
-    "mainCategory": "المتاجر",
-    "subCategory": "الأزياء",
-    "link": "https://mtjr.at/yIKm9hFnsn"
   },
   {
     "name": "زيرو فيب ZERO VAPE",
@@ -1262,14 +1211,6 @@
     "mainCategory": "المتاجر",
     "subCategory": "الألعاب",
     "link": "https://mtjr.at/6aff919eiys196"
-  },
-  {
-    "name": "Banu | بانو",
-    "code": "F-ZKH9N",
-    "image": "https://cdn.salla.sa/RrKRy/AgooiKMTp9FqasVyKcjJKsuZC0Otya0s5HPEOy8o.png",
-    "mainCategory": "المتاجر",
-    "subCategory": "العناية والتجميل",
-    "link": "https://mtjr.at/HPFsc8G3wg"
   },
   {
     "name": "ماضي الطيب",
