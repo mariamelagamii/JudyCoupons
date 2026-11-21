@@ -2099,5 +2099,85 @@
     "mainCategory": "المتاجر",
     "subCategory": "الطباعة والقرطاسية",
     "link": "https://mtjr.at/6b006a27i1lzs9"
+  },
+  {
+    "name": "RJ",
+    "code": "UVA05",
+    "image": "https://cdn.salla.sa/xANaaY/stores/logos/1OjzqbMPnL2pcFzoRBNbervi60jLR9xAIbqBydQB.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "الألعاب",
+    "link": "https://mtjr.at/6b0176b9gbxitn"
+  },
+  {
+    "name": "قمم الجودة",
+    "code": "YHYBC",
+    "image": "https://cdn.salla.sa/VqalQx/8W7nRq08NemnwzLDSgXhhuVOVnd8MLsalayhm9qC.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "الكترونيات",
+    "link": "https://mtjr.at/6b0176c079u6ox"
+  },
+  {
+    "name": "كمّلها",
+    "code": "WTV5U",
+    "image": "https://cdn.salla.sa/olqNr/VnFaBCuuUagbPZZ6BszOpyxNw9ZSvQGnbgLkKgWl.jpg",
+    "mainCategory": "المتاجر",
+    "subCategory": "الطباعة والقرطاسية",
+    "link": "https://mtjr.at/6b0176c33nzvd1"
+  },
+  {
+    "name": "متجر إيلان",
+    "code": "XYG8J",
+    "image": "https://cdn.salla.sa/GOqWy/gVlTg0VvVJWVuYYqwXaXW1MkQN73X3JdZ4jYCMNJ.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "العناية والتجميل",
+    "link": "https://mtjr.at/6b0176c97m0hxw"
+  },
+  {
+    "name": "مكتبة العقل المضيء",
+    "code": "W9KXN",
+    "image": "https://cdn.salla.sa/zZgeg/2Bg7vfDtGM88ScRRW4X5nuabjGn7TUGXv7sVeQK1.jpg",
+    "mainCategory": "المتاجر",
+    "subCategory": "التعليم",
+    "link": "https://mtjr.at/6b0176cci9nf1v"
+  },
+  {
+    "name": "VevaSilver - فيفا سيلفر",
+    "code": "CBZMN",
+    "image": "https://cdn.salla.sa/zveAdd/stores/logos/z37xyuWsgqfsXzmpL9uhlLYEXr89pURsgdEej0Cn.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "المجوهرات والاكسسوارات",
+    "link": "https://mtjr.at/6b0176d3zvrrpb"
+  },
+  {
+    "name": "عطارة دكان العطار",
+    "code": "XPRI4",
+    "image": "https://cdn.salla.sa/PjENG/5nzNkQNjfLyVhALBgBuUhJnfrLcbjFa3xXmlz762.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "العناية والتجميل",
+    "link": "https://mtjr.at/6b0176d64qjty5"
+  },
+  {
+    "name": "SHANAB",
+    "code": "BTXB2",
+    "image": "https://cdn.salla.sa/yEnXp/6jBlN0NRY5wPQrw5fVp8XwQUr7a2YnuPmLgWGXS5.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "العناية والتجميل",
+    "link": "https://mtjr.at/6b0176dcc3s0kh"
+  },
+  {
+    "name": "متجر عشبة",
+    "code": "OKPQN",
+    "image": "https://cdn.salla.sa/mQgvqz/Pod6N8fTre0FT6hxLTpIZhqyiYwrIIOv8oduZ312.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "العسل والتمور",
+    "link": "https://mtjr.at/6b0176dftmfdow"
+  },
+  {
+    "name": "عيون عبير للبصريات",
+    "code": "Z4KLV",
+    "image": "https://cdn.salla.sa/XXnAR/8XdR4Lav4EUAeIiI54U1HllYgqVkdbYTT1VjXXBG.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "آخرى",
+    "link": "https://mtjr.at/6b01770anuvm5h"
   }
 ]
