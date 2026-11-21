@@ -232,6 +232,14 @@
     <a class="wa-float" href="https://wa.me/966552261549?text=%D9%87%D9%84%D8%A7%D8%8C%20%D8%B9%D9%86%D8%AF%D9%8A%20%D8%B3%D8%A4%D8%A7%D9%84%20%D8%B9%D9%86%20%D9%83%D9%88%D8%AF%20%D8%AE%D8%B5%D9%85%20%D9%81%D9%8A%20%D9%85%D9%82%D8%A7%D9%84%D8%A9%20%D9%85%D8%AA%D8%A7%D8%AC%D8%B1%20%D8%A7%D9%84%D8%B9%D9%88%D8%AF%20%D9%88%D8%A7%D9%84%D8%B9%D8%B7%D9%88%D8%B1" target="_blank" rel="noopener" aria-label="تواصل معنا واتساب"><i class="fa-brands fa-whatsapp"></i></a>
 
     <script>
+        // hide stores whose affiliate code is stopped: the live list is assets/data/offers.json (kept in step by sync_status.py)
+        fetch('../../assets/data/offers.json', { cache: 'no-cache' }).then(function (r) { return r.json(); }).then(function (list) {
+            var live = {};
+            list.forEach(function (o) { var c = String(o.code || '').toUpperCase(); live[c] = 1; live[c.replace(/^F-/, '')] = 1; });
+            var ok = function (c) { c = String(c || '').toUpperCase().trim(); return live[c] || live[c.replace(/^F-/, '')]; };
+            document.querySelectorAll('article.store').forEach(function (a) { var b = a.querySelector('button.copy'); if (b && !ok(b.dataset.code)) a.style.display = 'none'; });
+            document.querySelectorAll('.quick tbody tr').forEach(function (tr) { var c = tr.querySelector('code'); if (c && !ok(c.textContent)) tr.style.display = 'none'; });
+        }).catch(function () {});
         document.addEventListener('click', function (e) {
             var b = e.target.closest('button.copy');
             if (!b) return;
