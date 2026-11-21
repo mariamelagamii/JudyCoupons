@@ -2251,5 +2251,85 @@
     "mainCategory": "المتاجر",
     "subCategory": "الكترونيات",
     "link": "https://mtjr.at/6b01a03bm1ol3j"
+  },
+  {
+    "name": "زيار",
+    "code": "VSDHG",
+    "image": "https://cdn.salla.sa/WxmWr/4vdjGrXXq0jOa7FyMtwfuMlJPLHrSars6qr5FqRd.jpg",
+    "mainCategory": "المتاجر",
+    "subCategory": "الألعاب",
+    "link": "https://mtjr.at/6b01d873un4kl8"
+  },
+  {
+    "name": "لوك بوتيك",
+    "code": "Y6GLB",
+    "image": "https://cdn.salla.sa/gZbyKV/QrwlKjhfOQ3OqhpNcTNyAasOsp6bjr4uiAg8PsbA.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "الأزياء",
+    "link": "https://mtjr.at/6b01d879kl0jel"
+  },
+  {
+    "name": "العزام ستور",
+    "code": "B61PD",
+    "image": "https://cdn.salla.sa/ODPar/FoNYjHMTmfZwnZEuRvpbtKTrRnPr7QRKPhtj3pb7.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "الأزياء",
+    "link": "https://mtjr.at/6b01d87di0zzxa"
+  },
+  {
+    "name": "SleeperTuningSA",
+    "code": "NHHGQ",
+    "image": "https://cdn.files.salla.network/theme/1021363650/ff4a5bd7-3f3d-45d0-9f97-47d634770ea5.webp",
+    "mainCategory": "المتاجر",
+    "subCategory": "الرياضة واللياقة",
+    "link": "https://mtjr.at/6b01d883z44gj2"
+  },
+  {
+    "name": "اوتاث",
+    "code": "B6C0I",
+    "image": "https://cdn.salla.sa/QWgA/nFE2uG1sRJYQmGOqlTILWn5ZFDoro9YWkse7Sdp8.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "القهوه والمحاصيل",
+    "link": "https://mtjr.at/6b01d8868hbi3c"
+  },
+  {
+    "name": "أجا",
+    "code": "KXABK",
+    "image": "https://cdn.salla.sa/blRwb/QCNHNVFGOAxtWb3izx5vd0WGqyjsbVhBnlZzdYOz.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "آخرى",
+    "link": "https://mtjr.at/6b01d88dfdiw0r"
+  },
+  {
+    "name": "جلومي",
+    "code": "FAAET",
+    "image": "https://cdn.salla.sa/lGElmj/Qz2f1SAuzo6tlkMRs4iIoMTOUJIyc14XsrItjx9X.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "الصحة والعيادات",
+    "link": "https://mtjr.at/6b01d893vo7gcm"
+  },
+  {
+    "name": "الحجاب الأنيق",
+    "code": "JDFHX",
+    "image": "https://cdn.salla.sa/OZedw/qc8XVK7G6ly8E9YM4XtSylOwFCObiBUk4jpasncp.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "الأزياء",
+    "link": "https://mtjr.at/6b01d896ib866t"
+  },
+  {
+    "name": "متجر اوثق لقطع غيار السيارات الصينية",
+    "code": "SBJ6G",
+    "image": "https://cdn.salla.sa/KvaOj/29c0401c-3542-4835-87d1-549327c10ff1-500x500-DJmqUKMaaUkhEo82f2Ys8n42pmZbJBKff1fp5jJo.jpg",
+    "mainCategory": "المتاجر",
+    "subCategory": "السيارات",
+    "link": "https://mtjr.at/6b01d89dj6icen"
+  },
+  {
+    "name": "منصة بريميوم جيت",
+    "code": "RNSP4",
+    "image": "https://cdn.salla.sa/KjDbdK/VL622GeluetXnq2yKAaRhEZP2QMHr40iDhFEvvsP.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "المنتجات الرقميه والاشتراكات",
+    "link": "https://mtjr.at/6b01d8a0r19i5i"
   }
 ]
