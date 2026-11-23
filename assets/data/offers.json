@@ -2731,5 +2731,85 @@
     "mainCategory": "المتاجر",
     "subCategory": "آخرى",
     "link": "https://mtjr.at/oCrjNZWrLi"
+  },
+  {
+    "name": "مِرهاة",
+    "code": "F-JKSAL",
+    "image": "https://cdn.salla.sa/VqXwlZ/z2HfElSANbOas1UpBRGKdcEoXIGB9nHUKfRgDDee.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "المنتجات الرقميه والاشتراكات",
+    "link": "https://mtjr.at/m2080p7LM4"
+  },
+  {
+    "name": "جي بي اورجانيك",
+    "code": "F-BT4GD",
+    "image": "https://cdn.salla.sa/xAyjrK/E6nZawyHfTnuqtZen3eWk0fqHloGFXlwdyd43KSH.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "العناية والتجميل",
+    "link": "https://mtjr.at/vHkDgM_8g0"
+  },
+  {
+    "name": "سديم العود",
+    "code": "F-PLFGO",
+    "image": "https://cdn.files.salla.network/theme/53834430/c43f69a1-bf1e-4234-b5cd-7e39fa10ec12.webp",
+    "mainCategory": "المتاجر",
+    "subCategory": "العطور والعود",
+    "link": "https://mtjr.at/dcqa6Y4WIr"
+  },
+  {
+    "name": "منصة ميزانية",
+    "code": "F-TTYUX",
+    "image": "https://cdn.salla.sa/Vmqyq/b0vdmxuA6pZjYSzGIwOmnaF8ymYDaxBEUfV8yzNe.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "السيارات",
+    "link": "https://mtjr.at/A-hqaifn0a"
+  },
+  {
+    "name": "عبايات إيسال | ISAL ABAYAS",
+    "code": "F-EQGWX",
+    "image": "https://cdn.files.salla.network/theme/1454703091/8a66461f-d355-4979-9f6e-19e47976b0f8.webp",
+    "mainCategory": "المتاجر",
+    "subCategory": "الأزياء",
+    "link": "https://mtjr.at/kkfPtutzQW"
+  },
+  {
+    "name": "GREY",
+    "code": "F-GTP3U",
+    "image": "https://cdn.salla.sa/OmoyY/EMA3cnZHp972zkgqnGMg331J4r7A0ZKJkVBYNDMo.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "الديكور والاضاءه",
+    "link": "https://mtjr.at/VC_5W3NVsZ"
+  },
+  {
+    "name": "لومير | LUMIÈRE",
+    "code": "F-L3CVW",
+    "image": "https://cdn.files.salla.network/theme/1435107618/ddcf4e20-c53a-44af-9e7c-d34878a52e56.webp",
+    "mainCategory": "المتاجر",
+    "subCategory": "الصحة والعيادات",
+    "link": "https://mtjr.at/msg8W21ZTK"
+  },
+  {
+    "name": "سَنّد",
+    "code": "F-8DV0U",
+    "image": "https://cdn.salla.sa/gZglGd/F0VFHKrBLWFYNga9r64IPN8Ca4DNub4e26ljCGBM.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "المجوهرات والاكسسوارات",
+    "link": "https://mtjr.at/KiWplN40WE"
+  },
+  {
+    "name": "ليال للفساتين",
+    "code": "73KSM",
+    "image": "https://cdn.salla.sa/EZVmPA/8mr4a2BG9DHlh4IM5aLXs9oCj94kz8DzNvNb2WzV.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "الأزياء",
+    "link": "https://mtjr.at/6b0419633d5q2e"
+  },
+  {
+    "name": "ايلي",
+    "code": "QXQBM",
+    "image": "https://cdn.salla.sa/AzvxYE/BUo8ovtgSO0VBl6csfaipY6Dgr56btFFzjiM7x4Y.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "آخرى",
+    "link": "https://mtjr.at/6b04196ai31dpo"
   }
 ]
