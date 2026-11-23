@@ -621,14 +621,6 @@
     "link": "https://mtjr.at/6aff91f5i6jdyv"
   },
   {
-    "name": "القاضي للخيام ولوازم للرحلات",
-    "code": "MTIN0",
-    "image": "https://cdn.salla.sa/jppK/mlnYVzpVFxru57uj60JzmZmwbuMJJjKF0kk8z4hR.jpg",
-    "mainCategory": "المتاجر",
-    "subCategory": "الديكور والاضاءه",
-    "link": "https://mtjr.at/6aff91a2mvg8lb"
-  },
-  {
     "name": "غلاف",
     "code": "B3LLY",
     "image": "https://cdn.salla.sa/QGzGX/OyWYFe66pagLOGyNcyIwJ1OA0jxxiOKu1GiGSpGz.png",
@@ -2811,5 +2803,85 @@
     "mainCategory": "المتاجر",
     "subCategory": "آخرى",
     "link": "https://mtjr.at/6b04196ai31dpo"
+  },
+  {
+    "name": "مقبض",
+    "code": "QRGUY",
+    "image": "https://cdn.salla.sa/xApDqe/48UdL8BV74g5mXy4R6wrgV22IMPHisxgahrX9zTh.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "الكترونيات",
+    "link": "https://mtjr.at/6b0435eezh5n2w"
+  },
+  {
+    "name": "بيت المانوكا",
+    "code": "XLKP9",
+    "image": "https://cdn.files.salla.network/theme/369718669/5f78e4bc-da10-4aae-9b4a-31a52320589d_500x133.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "العسل والتمور",
+    "link": "https://mtjr.at/6b0435f3q4ybdc"
+  },
+  {
+    "name": "ويـــفزبيوتــي",
+    "code": "7RW6I",
+    "image": "https://cdn.salla.sa/lGNdna/hv5wTNlEuXQQdKC9Az0GiACRPF3tOoKr3JDVBaU4.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "العسل والتمور",
+    "link": "https://mtjr.at/6b0435fa61m082"
+  },
+  {
+    "name": "أبعاد المسار",
+    "code": "V6ODZ",
+    "image": "https://cdn.files.salla.network/other/1767825705/84862b82-7a76-4a5c-85c7-1c5f7e5d5a0e-original.webp",
+    "mainCategory": "المتاجر",
+    "subCategory": "المنتجات الرقميه والاشتراكات",
+    "link": "https://mtjr.at/6b0435fd1m4l3o"
+  },
+  {
+    "name": "الوعل للوازم الرحلات",
+    "code": "GJ8EM",
+    "image": "https://cdn.salla.sa/lywnA/iD9NSNgN3ZIm7dbyw9lX2DqUYgOXCBJSvp7gxOT5.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "الديكور والاضاءه",
+    "link": "https://mtjr.at/6b0436044w1dro"
+  },
+  {
+    "name": "Sleep Home",
+    "code": "1CBKB",
+    "image": "https://cdn.files.salla.network/theme/1722681587/ec790e71-85da-486b-bed4-af456d637f2c.webp",
+    "mainCategory": "المتاجر",
+    "subCategory": "الديكور والاضاءه",
+    "link": "https://mtjr.at/6b0436079n3cu3"
+  },
+  {
+    "name": "GOAT",
+    "code": "SZYBJ",
+    "image": "https://cdn.salla.sa/avdnA/SKlKciowwTtc9Tcrgvr6rFvCzZjy49IvDl3DB4j3.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "الألعاب",
+    "link": "https://mtjr.at/6b04360dsr8chb"
+  },
+  {
+    "name": "شركة العمودي للرياضة",
+    "code": "OUEVP",
+    "image": "https://cdn.salla.sa/wKAXD/q6AhVqJvyJK5QI7CwerWztpowMcLlMPu2w7hnMEC.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "الرياضة واللياقة",
+    "link": "https://mtjr.at/6b043611mlt0t6"
+  },
+  {
+    "name": "كلين اكسبرس",
+    "code": "C8WBJ",
+    "image": "https://cdn.salla.sa/jvenl/NTfDgskflFK4S6Ybd9ffChltCuTYluP2QZ7LHkfx.jpg",
+    "mainCategory": "المتاجر",
+    "subCategory": "الديكور والاضاءه",
+    "link": "https://mtjr.at/6b043617b6vhwm"
+  },
+  {
+    "name": "اي ام جي EMG للطاقة الشمسية",
+    "code": "RB7YN",
+    "image": "https://cdn.salla.sa/ydVPmD/So7kNElRc6bGf1dh2lypAqvtIgvAnxHaOoan6dlC.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "الكترونيات",
+    "link": "https://mtjr.at/6b04361aj48n8f"
   }
 ]
