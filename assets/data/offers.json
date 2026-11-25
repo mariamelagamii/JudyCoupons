@@ -925,14 +925,6 @@
     "link": "https://mtjr.at/6afffb2ec1pgjb"
   },
   {
-    "name": "صيدليات اكسير",
-    "code": "4YBY0",
-    "image": "https://cdn.salla.sa/QeZox/vkMtuiaFQN7vF6sT1VNXutAlb59mRCUpHP43UNkJ.png",
-    "mainCategory": "المتاجر",
-    "subCategory": "العناية والتجميل",
-    "link": "https://mtjr.at/6afffb3c37oufc"
-  },
-  {
     "name": "S49",
     "code": "MSOTQ",
     "image": "https://cdn.salla.sa/RAdByD/Adap27lOTZUMA8zfb1J77VHNO2SlMJQjB7RmdYGU.jpg",
@@ -2123,14 +2115,6 @@
     "mainCategory": "المتاجر",
     "subCategory": "العناية والتجميل",
     "link": "https://mtjr.at/6b0176c97m0hxw"
-  },
-  {
-    "name": "مكتبة العقل المضيء",
-    "code": "W9KXN",
-    "image": "https://cdn.salla.sa/zZgeg/2Bg7vfDtGM88ScRRW4X5nuabjGn7TUGXv7sVeQK1.jpg",
-    "mainCategory": "المتاجر",
-    "subCategory": "التعليم",
-    "link": "https://mtjr.at/6b0176cci9nf1v"
   },
   {
     "name": "VevaSilver - فيفا سيلفر",
@@ -3515,5 +3499,85 @@
     "mainCategory": "المتاجر",
     "subCategory": "آخرى",
     "link": "https://mtjr.at/6b05e984vzbhs3"
+  },
+  {
+    "name": "عتيق الانفاس",
+    "code": "K8JZY",
+    "image": "https://cdn.salla.sa/OyEbK/yB4Rxz5xv35y6F0xCQkHI9YSF73taYOaQr17oEAN.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "العطور والعود",
+    "link": "https://mtjr.at/6b06bc02i59p0t"
+  },
+  {
+    "name": "NARJS COMPANY | شركة نرجس",
+    "code": "C7XCH",
+    "image": "https://cdn.salla.sa/BrBYGy/7j1vjY84l1Mv8QQwoFmjDwAbBKLeUCDiev4ByORE.jpg",
+    "mainCategory": "المتاجر",
+    "subCategory": "الأغذية",
+    "link": "https://mtjr.at/6b06bc0932mce7"
+  },
+  {
+    "name": "الوكيل للألعاب",
+    "code": "ZUMCG",
+    "image": "https://cdn.salla.sa/rKyp/mwLNBHRKRkSx7kTZsMuG1fuAq8Yh2sW7Inf6aTIb.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "الألعاب",
+    "link": "https://mtjr.at/6b06bc0fxx4xmr"
+  },
+  {
+    "name": "Wakkiez",
+    "code": "GLGJX",
+    "image": "https://cdn.salla.sa/qQwRYZ/NGqMO5Q0g2i1qv3PcgXzZPtPpC2C9fB5mvxGZ83m.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "آخرى",
+    "link": "https://mtjr.at/6b06bc137p5myl"
+  },
+  {
+    "name": "تدلل العناية | tdalalcare",
+    "code": "P795A",
+    "image": "https://cdn.salla.sa/gZzVPg/U5WARofM97m4m3bcNpVyoHBIVHXgVqOC0Bjn7SNy.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "العناية والتجميل",
+    "link": "https://mtjr.at/6b06bc197clu3t"
+  },
+  {
+    "name": "وكلاء الفيب - معتمد في السعودية",
+    "code": "SRUSR",
+    "image": "https://cdn.salla.sa/YgABZq/7RXj5KiQfZJGiyOn7WmLOMHyImYZ9YyttvDUu3fF.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "الكترونيات",
+    "link": "https://mtjr.at/6b06bc1cg8lgrb"
+  },
+  {
+    "name": "MIRAS",
+    "code": "QOTQ3",
+    "image": "https://cdn.salla.sa/AzENGq/x3IfVVQaxVQC5eU85TDhEf55SXMaVYqbduDKVmNT.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "الأزياء",
+    "link": "https://mtjr.at/6b06bc22cx8p7n"
+  },
+  {
+    "name": "متجر مسواكنا",
+    "code": "BGJYA",
+    "image": "https://cdn.salla.sa/Dpnb/J7vSATuXmaON6bkaioNvX2thgmP1tI2N0caGF6Tf.jpg",
+    "mainCategory": "المتاجر",
+    "subCategory": "العطور والعود",
+    "link": "https://mtjr.at/6b06bc26tt96ex"
+  },
+  {
+    "name": "متجر نجمة التقنية",
+    "code": "PKSJG",
+    "image": "https://cdn.salla.sa/yzVZl/uDwZIptPLmOR0wSSPDx8LNqvBqlvsJFZGjxVLC7S.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "الكترونيات",
+    "link": "https://mtjr.at/6b06bc2c8tw8ve"
+  },
+  {
+    "name": "مجوهرات فارس FARIS Jewelry",
+    "code": "V9NCE",
+    "image": "https://cdn.salla.sa/BgvQq/rs1jc3DWw7w5mu5zNB3jb9nh58VFSdYXbCdIaigo.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "المجوهرات والاكسسوارات",
+    "link": "https://mtjr.at/6b06bc30n49iqk"
   }
 ]
