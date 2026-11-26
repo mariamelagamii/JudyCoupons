@@ -725,14 +725,6 @@
     "link": "https://mtjr.at/6aff91f53sk1rx"
   },
   {
-    "name": "سيزون | SEASON",
-    "code": "UEYUS",
-    "image": "https://cdn.salla.sa/VbYbq/ZxOlc4dI0YOWq39VN5SotA2bbiAh3HQU9zuCqKgX.png",
-    "mainCategory": "المتاجر",
-    "subCategory": "الأزياء",
-    "link": "https://mtjr.at/6afff626e8haxf"
-  },
-  {
     "name": "Hugezone",
     "code": "EESS1",
     "image": "https://cdn.salla.sa/aKZXA/W16CRPsMYCBqmVVbxh3nqOFE8EL9dKTJEW9THN4h.png",
@@ -3955,5 +3947,85 @@
     "mainCategory": "المتاجر",
     "subCategory": "آخرى",
     "link": "https://mtjr.at/6b0829e8kc5i33"
+  },
+  {
+    "name": "سليب لاند",
+    "code": "",
+    "image": "https://cdn.salla.sa/zDoQz/zcwZR3VPvRffqCD0m9stUztBXWFgIapRBUL3NA06.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "العناية والتجميل",
+    "link": "https://mtjr.at/6b08378d5nlkt6"
+  },
+  {
+    "name": "Az Shirts | عز شيرتس",
+    "code": "",
+    "image": "https://cdn.salla.sa/ePOEod/fALjLQRDzvClwT4JwOKrt3tLxnk34Q7Yi1OnWYl7.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "آخرى",
+    "link": "https://mtjr.at/6b0837927koipm"
+  },
+  {
+    "name": "السنان للعطور والعسل الطبيعي",
+    "code": "",
+    "image": "https://cdn.salla.sa/EZoXvZ/PxkLbXqNXQ74edyehOfQCdJBvMvEO0ZmqVWuTwil.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "العطور والعود",
+    "link": "https://mtjr.at/6b0837bahfo9wm"
+  },
+  {
+    "name": "هودار",
+    "code": "",
+    "image": "https://cdn.files.salla.network/theme/1616337068/67d58eda-fef9-4aea-8f62-46d780c57920.webp",
+    "mainCategory": "المتاجر",
+    "subCategory": "آخرى",
+    "link": "https://mtjr.at/6b0837bel14n5g"
+  },
+  {
+    "name": "سيف كار - safe car",
+    "code": "",
+    "image": "https://cdn.salla.sa/EZrnEy/xfPYIJIbkHjob4nKehCPNNvhKbRRvYtWpVijpnN3.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "السيارات",
+    "link": "https://mtjr.at/6b0837c36qdgdl"
+  },
+  {
+    "name": "التجربة الثرية للسفر والسياحة",
+    "code": "",
+    "image": "https://cdn.salla.sa/KbAZp/BwtlReCNVfrMdEEKYuhPNreCvGVtjlQCRvQO0f26.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "آخرى",
+    "link": "https://mtjr.at/6b0837c7r8lzei"
+  },
+  {
+    "name": "قرية الشمال",
+    "code": "",
+    "image": "https://cdn.salla.sa/ylrWz/7bkRR87lK1NMaeIrnJzQTtfPdMx7DpyMTlWhJ8AO.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "الأزياء",
+    "link": "https://mtjr.at/6b0837cee8p7ft"
+  },
+  {
+    "name": "متجر رويتا",
+    "code": "",
+    "image": "https://cdn.salla.sa/VqPWBK/MNXQf6JnPKIRXFwQUowAdCc5VB4bSK8fpp03uOSX.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "الأزياء",
+    "link": "https://mtjr.at/6b0837d1kzw3v3"
+  },
+  {
+    "name": "متجر مقام الصبا",
+    "code": "",
+    "image": "https://cdn.files.salla.network/theme/1209667994/7c89f35f-41a7-42ab-b2b5-e04b0d9fbda8.webp",
+    "mainCategory": "المتاجر",
+    "subCategory": "العطور والعود",
+    "link": "https://mtjr.at/6b0837dbb7ti0l"
+  },
+  {
+    "name": "لورين - LAUREN",
+    "code": "",
+    "image": "https://cdn.salla.sa/jZgdbm/eb7OTuQzawBOf0e0pVTfmVUuH4e177cZrz37vENZ.png",
+    "mainCategory": "المتاجر",
+    "subCategory": "آخرى",
+    "link": "https://mtjr.at/6b0837dff7shxn"
   }
 ]
